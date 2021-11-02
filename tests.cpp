@@ -24,5 +24,3 @@ TEST_CASE("ExerciseOne") //Named ExerciseOne, tagged with example
 // can use variables and libraries
 // can use logic operators and loops
 // you can run a specific test by using ./tests <TEST CASE NAME HERE>
-
-
